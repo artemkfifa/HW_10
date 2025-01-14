@@ -1,0 +1,527 @@
+    1  ping sp.promokodi.coupon
+    2  ping cp.promokodi.coupons
+    3  git
+    4  git
+    5  git config --global user.name
+    6  git config --global user.email
+    7  git config user.name
+    8  git add .
+    9  git status
+   10  git commit -m "Change weathe and add screenshott"
+   11  git status
+   12  git push origin master
+   13  git push master
+   14  git push main
+   15  git push
+   16  git push
+   17  git push
+   18  git push
+   19  berbatov88
+   20  git push
+   21  ssh-keygen -t ed25519 -C "ovcharikdima@gmail.com"
+   22  ssh-keygen -t rsa -b 4096 -C "ovcharikdima@gmail.com"\n
+   23  cat ~/.ssh/id_rsa.pub\n
+   24  AAAAB3NzaC1yc2EAAAADAQABAAACAQDUF35ilsLi2RXqCr9dTn1iA+iiSW75xqP1DnybJicb76bt60yTbdcEM2j5lOr8gSiZBUmooaqsnd4zQjl4uOZCq8anl/WBx+9IGgPcm/5w8trnVtdnIgiOB+GEcg9afh+9u1CIGecZUHsbp+uWYUbDAuNg2nM8BQ63q1gBVOvlkE2GkqLpILoZWVC4H2hzV0nzUUQWvfipOhqDgCwrlhyzeF+Y0bQgrj9NlGyBbGfqWp8pJUpy9oFhmsn5CnDSJLvqa7tWDx8K+cfU+zy0XU86RPCGBljQwLASrKAF37Jl9JJ/SwiZ6Wo09bosiK14mpWJv6UhhKHvTKqwFdYB/GpbK/fnwO1KI0CJUxaa+WlCc9G3fa0yMD/kvge1YoJZfNfdrBgUwBmSFQ9737KghwINb/Ub2HS7T3gDF8ad95tMIsgUEpYgcyTkHEVeN68O4x8lrxsjPuDMOgXvlcoIq/qvLst2p05GALSlTL6IICufWhjfd7e9BSMhhw9hT5LKFBI9FIEX4Ov9a+D9TwamiiNc5pgWsf+0MSo5KAXfhVt1oi0L/5eMO3hkQoKofqI0VqW1AdD2eOPSDFQJMA71K0VTl1Y1jMaasHc5lCfSHif6C2Iw4LSM8+CTq2yPTz+MrLcA4q/KVh9qamr7GzzZ/pJ1NR0
+   25  git config --global user.email "ovcharikdima@gmail.com"\n
+   26  git config --global user.name "berbatov88"\n
+   27  git config --global core.sshCommand "ssh -i ~/.ssh/id_rsa"\n
+   28  git push main
+   29  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDUF35ilsLi2RXqCr9dTn1iA+iiSW75xqP1DnybJicb76bt60yTbdcEM2j5lOr8gSiZBUmooaqsnd4zQjl4uOZCq8anl/WBx+9IGgPcm/5w8trnVtdnIgiOB+GEcg9afh+9u1CIGecZUHsbp+uWYUbDAuNg2nM8BQ63q1gBVOvlkE2GkqLpILoZWVC4H2hzV0nzUUQWvfipOhqDgCwrlhyzeF+Y0bQgrj9NlGyBbGfqWp8pJUpy9oFhmsn5CnDSJLvqa7tWDx8K+cfU+zy0XU86RPCGBljQwLASrKAF37Jl9JJ/SwiZ6Wo09bosiK14mpWJv6UhhKHvTKqwFdYB/GpbK/fnwO1KI0CJUxaa+WlCc9G3fa0yMD/kvge1YoJZfNfdrBgUwBmSFQ9737KghwINb/Ub2HS7T3gDF8ad95tMIsgUEpYgcyTkHEVeN68O4x8lrxsjPuDMOgXvlcoIq/qvLst2p05GALSlTL6IICufWhjfd7e9BSMhhw9hT5LKFBI9FIEX4Ov9a+D9TwamiiNc5pgWsf+0MSo5KAXfhVt1oi0L/5eMO3hkQoKofqI0VqW1AdD2eOPSDFQJMA71K0VTl1Y1jMaasHc5lCfSHif6C2Iw4LSM8+CTq2yPTz+MrLcA4q/KVh9qamr7GzzZ/pJ1NR04wOIjPc9lnS32SowcfQ== ovcharikdima@gmail.com
+   30  git push main
+   31  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDUF35ilsLi2RXqCr9dTn1iA+iiSW75xqP1DnybJicb76bt60yTbdcEM2j5lOr8gSiZBUmooaqsnd4zQjl4uOZCq8anl/WBx+9IGgPcm/5w8trnVtdnIgiOB+GEcg9afh+9u1CIGecZUHsbp+uWYUbDAuNg2nM8BQ63q1gBVOvlkE2GkqLpILoZWVC4H2hzV0nzUUQWvfipOhqDgCwrlhyzeF+Y0bQgrj9NlGyBbGfqWp8pJUpy9oFhmsn5CnDSJLvqa7tWDx8K+cfU+zy0XU86RPCGBljQwLASrKAF37Jl9JJ/SwiZ6Wo09bosiK14mpWJv6UhhKHvTKqwFdYB/GpbK/fnwO1KI0CJUxaa+WlCc9G3fa0yMD/kvge1YoJZfNfdrBgUwBmSFQ9737KghwINb/Ub2HS7T3gDF8ad95tMIsgUEpYgcyTkHEVeN68O4x8lrxsjPuDMOgXvlcoIq/qvLst2p05GALSlTL6IICufWhjfd7e9BSMhhw9hT5LKFBI9FIEX4Ov9a+D9TwamiiNc5pgWsf+0MSo5KAXfhVt1oi0L/5eMO3hkQoKofqI0VqW1AdD2eOPSDFQJMA71K0VTl1Y1jMaasHc5lCfSHif6C2Iw4LSM8+CTq2yPTz+MrLcA4q/KVh9qamr7GzzZ/pJ1NR04wOIjPc9lnS32SowcfQ== ovcharikdima@gmail.com
+   32  git push
+   33  git push
+   34  git push
+   35  git push
+   36  scdc
+   37  git push
+   38  git push
+   39  git push main
+   40  git push main
+   41  git clone https://github.com/berbatov88/repo.git
+   42  /usr/bin/python3 "/Users/dima/Desktop/Python/print (HELLO).py"
+   43  $ brew install git
+   44  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   45  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   46  /usr/bin/python3 /Users/dima/Desktop/Project/vscode-basics/main.py
+   47  $ brew install git
+   48  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   49   /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 60023 -- /Users/dima/Desktop/Project1/main.py 
+   50   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 65277 -- /Users/dima/Desktop/Project1/main.py 
+   51   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 65307 -- /Users/dima/Desktop/Project1/main.py 
+   52   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 65332 -- /Users/dima/Desktop/Project1/main.py 
+   53   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 65371 -- /Users/dima/Desktop/Project1/main.py 
+   54   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 65466 -- /Users/dima/Desktop/Project1/main.py 
+   55   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 49807 -- /Users/dima/Desktop/Project1/test1.py 
+   56   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 49847 -- /Users/dima/Desktop/Project1/test1.py 
+   57   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 49886 -- /Users/dima/Desktop/Project1/test1.py 
+   58   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 50075 -- /Users/dima/Desktop/Project1/test1.py 
+   59   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 50099 -- /Users/dima/Desktop/Project1/test1.py 
+   60   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 50140 -- /Users/dima/Desktop/Project1/test1.py 
+   61   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 50205 -- /Users/dima/Desktop/Project1/main.py 
+   62   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 50806 -- /Users/dima/Desktop/Project1/main.py 
+   63   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/local/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 50841 -- /Users/dima/Desktop/Project1/main.py 
+   64  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   65  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main1.py
+   66  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   67  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   68  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   69  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   70  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   71  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   72  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   73  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   74  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   75  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   76  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   77  /usr/local/bin/python3 /Users/dima/Desktop/Project1/main.py
+   78  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   79  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   80  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   81  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   82  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   83  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   84  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   85  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   86  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   87  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   88  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   89  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   90  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   91  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   92  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   93  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   94  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   95  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   96  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   97  /usr/local/bin/python3 /Users/dima/Desktop/Project1/test.py
+   98  /usr/local/bin/python3
+   99  /usr/bin/python3 /Users/dima/Desktop/Project1/main.py
+  100  /usr/bin/python3 /Users/dima/Desktop/Project1/main.py
+  101  /usr/bin/python3 /Users/dima/Desktop/Project1/main.py
+  102  /usr/bin/python3 /Users/dima/Desktop/Project1/main.py
+  103  /usr/bin/python3 /Users/dima/Desktop/Project1/main.py
+  104  /usr/bin/python3 /Users/dima/Desktop/Project1/main.py
+  105  /usr/bin/python3 /Users/dima/Desktop/Project1/main.py
+  106  /usr/bin/python3 /Users/dima/Desktop/Project1/main.py
+  107  /usr/bin/python3
+  108   /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51218 -- /Users/dima/Desktop/Project1/main.py 
+  109   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 52307 -- /Users/dima/Desktop/Project1/main.py 
+  110   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 52450 -- /Users/dima/Desktop/Project1/main.py 
+  111   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 52487 -- /Users/dima/Desktop/Project1/main.py 
+  112   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 52649 -- /Users/dima/Desktop/Project1/main.py 
+  113   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 52720 -- /Users/dima/Desktop/Project1/main.py 
+  114   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 53036 -- /Users/dima/Desktop/Project1/main.py 
+  115   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 53368 -- /Users/dima/Desktop/Project1/main.py 
+  116   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 53489 -- /Users/dima/Desktop/Project1/main.py 
+  117   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 53733 -- /Users/dima/Desktop/Project1/main.py 
+  118   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 53774 -- /Users/dima/Desktop/Project1/main.py 
+  119   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 53811 -- /Users/dima/Desktop/Project1/main.py 
+  120   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 54538 -- /Users/dima/Desktop/Project1/main.py 
+  121   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 54906 -- /Users/dima/Desktop/Project1/main.py 
+  122   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 55188 -- /Users/dima/Desktop/Project1/main.py 
+  123   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 55684 -- /Users/dima/Desktop/Project1/main.py 
+  124   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56318 -- /Users/dima/Desktop/Project1/main.py 
+  125   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56329 -- /Users/dima/Desktop/Project1/main.py 
+  126   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56431 -- /Users/dima/Desktop/Project1/main.py 
+  127   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56443 -- /Users/dima/Desktop/Project1/main.py 
+  128   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56457 -- /Users/dima/Desktop/Project1/main.py 
+  129   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56497 -- /Users/dima/Desktop/Project1/main.py 
+  130   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56507 -- /Users/dima/Desktop/Project1/main.py 
+  131   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56657 -- /Users/dima/Desktop/Project1/main.py 
+  132   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 60944 -- /Users/dima/Desktop/Project1/test2.py 
+  133   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 60956 -- /Users/dima/Desktop/Project1/test2.py 
+  134   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 60965 -- /Users/dima/Desktop/Project1/test2.py 
+  135   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 60984 -- /Users/dima/Desktop/Project1/test2.py 
+  136   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51318 -- /Users/dima/Desktop/Project1/test2.py 
+  137   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51331 -- /Users/dima/Desktop/Project1/test2.py 
+  138   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51339 -- /Users/dima/Desktop/Project1/test2.py 
+  139   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51348 -- /Users/dima/Desktop/Project1/test2.py 
+  140   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51363 -- /Users/dima/Desktop/Project1/test2.py 
+  141   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51384 -- /Users/dima/Desktop/Project1/test2.py 
+  142   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51452 -- /Users/dima/Desktop/Project1/test2.py 
+  143   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51462 -- /Users/dima/Desktop/Project1/test2.py 
+  144   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51474 -- /Users/dima/Desktop/Project1/test2.py 
+  145   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51482 -- /Users/dima/Desktop/Project1/test2.py 
+  146   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51498 -- /Users/dima/Desktop/Project1/test2.py 
+  147   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51642 -- /Users/dima/Desktop/Project1/test2.py 
+  148   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51665 -- /Users/dima/Desktop/Project1/test2.py 
+  149   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51753 -- /Users/dima/Desktop/Project1/test2.py 
+  150  svsv
+  151   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51762 -- /Users/dima/Desktop/Project1/test2.py 
+  152   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 51770 -- /Users/dima/Desktop/Project1/test2.py 
+  153  sdf
+  154   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63328 -- /Users/dima/Desktop/Project1/test2.py 
+  155  2
+  156   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63338 -- /Users/dima/Desktop/Project1/test2.py 
+  157  234
+  158   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63353 -- /Users/dima/Desktop/Project1/test2.py 
+  159   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63359 -- /Users/dima/Desktop/Project1/test2.py 
+  160   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63374 -- /Users/dima/Desktop/Project1/test2.py 
+  161  3
+  162   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63390 -- /Users/dima/Desktop/Project1/test2.py 
+  163   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63423 -- /Users/dima/Desktop/Project1/test2.py 
+  164   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63432 -- /Users/dima/Desktop/Project1/test2.py 
+  165   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63455 -- /Users/dima/Desktop/Project1/test2.py 
+  166   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63465 -- /Users/dima/Desktop/Project1/test2.py 
+  167   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63479 -- /Users/dima/Desktop/Project1/test2.py 
+  168   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63491 -- /Users/dima/Desktop/Project1/test2.py 
+  169   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63501 -- /Users/dima/Desktop/Project1/test2.py 
+  170   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63510 -- /Users/dima/Desktop/Project1/test2.py 
+  171   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63536 -- /Users/dima/Desktop/Project1/test2.py 
+  172   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63544 -- /Users/dima/Desktop/Project1/test2.py 
+  173   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63554 -- /Users/dima/Desktop/Project1/test2.py 
+  174   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63577 -- /Users/dima/Desktop/Project1/test2.py 
+  175   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 63885 -- /Users/dima/Desktop/Project1/test2.py 
+  176   cd /Users/dima/Desktop/Project1 ; /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 64062 -- /Users/dima/Desktop/Project1/test2.py 
+  177  /usr/bin/python3 /Users/dima/Desktop/Project1/main.py
+  178  rr
+  179  /usr/bin/python3 /Users/dima/Desktop/Project1/main.py
+  180  /usr/bin/python3 /Users/dima/Desktop/Project1/main.py
+  181  /usr/bin/python3 /Users/dima/Desktop/Project1/test2.py
+  182  /usr/bin/python3 /Users/dima/Desktop/Project1/test2.py
+  183  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  184  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  185  /usr/bin/python3
+  186  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  187  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  188  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  189  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  190  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  191  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  192  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  193  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  194  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  195  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  196  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  197  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  198  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  199  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  200  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  201  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  202  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  203  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  204  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  205  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  206  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  207  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  208  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  209  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  210  /usr/bin/python3
+  211  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  212  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  213  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  214  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  215  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  216  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  217  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  218  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  219  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  220  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  221  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  222  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  223  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  224  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  225  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  226  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  227  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  228  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  229  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  230  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  231  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  232  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  233  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  234  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  235  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  236  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  237  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  238  /usr/bin/python3
+  239  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  240  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  241  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  242  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  243  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  244  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  245  /usr/bin/python3
+  246  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  247  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  248  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  249  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  250  /usr/bin/python3
+  251  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  252  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  253  /usr/bin/python3
+  254  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  255  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  256  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  257  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  258  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  259  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  260  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  261  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  262  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  263  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  264  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  265  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  266  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  267  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  268  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  269  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  270  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  271  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  272  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  273  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  274  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  275  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  276  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  277  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  278  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  279  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  280  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  281  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  282  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  283  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  284  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  285  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  286  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  287  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  288  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  289  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  290  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  291  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  292  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  293  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  294  /usr/bin/python3 /Users/dima/Desktop/Project1/Module_1.py
+  295  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  296  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  297  https://raw.githubusercontent.com/Homebrew/install/master/uninstall)
+  298  $ brew install git
+  299  $ brew install git$ brew install git
+  300  $ brew install git
+  301  $ brew instal
+  302  brew install git
+  303  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  304  $ brew install git
+  305  brew install git
+  306  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  307  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  308  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  309  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  310  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  311  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  312  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  313  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  314  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  315  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  316  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  317  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  318  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  319  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  320  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  321  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  322  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  323  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  324  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  325  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  326  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  327  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  328  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  329  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  330  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  331  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  332  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  333  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  334  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  335  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  336  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  337  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  338  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  339  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  340  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  341  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  342  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  343  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  344  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  345  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  346  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  347  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  348  2
+  349  ng serve -o
+  350  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  351  ng serve -o
+  352  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  353  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  354  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  355  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  356  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  357  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  358  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  359  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  360  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  361  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  362  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  363  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  364  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  365  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  366   /usr/bin/env /usr/bin/python3 /Users/dima/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 53582 -- /Users/dima/Desktop/Project1/1.py 
+  367  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  368  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  369  /usr/bin/python3
+  370  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  371  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  372  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  373  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  374  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  375  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  376  /usr/bin/python3 /Users/dima/Desktop/Project1/1.py
+  377  brew install --cask dbeaver-community
+  378  help
+  379  man
+  380  D
+  381  man ls
+  382   ls
+  383  clear
+  384  ls
+  385  cd Desktop
+  386  ls
+  387  cd ..
+  388  cd Desktop Adobe
+  389  ls
+  390  cd
+  391  cd
+  392  cd Desktop
+  393  cd..
+  394  cd ..
+  395  cd Desktop
+  396  ls
+  397  cd ..
+  398  ~
+  399  cd pizza
+  400  cd Desktop
+  401  ls
+  402  clear
+  403  cd ~
+  404  ls
+  405  cd Desktop
+  406  pwd
+  407  cd Desktop
+  408  ls
+  409  cd google
+  410  ls
+  411  cd ~
+  412  ls
+  413  cd Desktop
+  414  pwd
+  415  cd ..
+  416  mkdir Lesson
+  417  ls
+  418  cd Desktop
+  419  ls
+  420  mkdir One
+  421  ls
+  422  clear
+  423  cd Git
+  424  git config --global user.name "Dmytro Ovcharyk"
+  425  git config --global user.email dimaovchariktest9@gmail.com
+  426  git clone https://github.com/dimaovchariktest9gmailcom/Homework.git
+  427  cd Homework
+  428  git status
+  429  touch New.txt
+  430  git status
+  431  git add New.txt
+  432  git status
+  433  git commit -m "New file was created"
+  434  git status
+  435  git log
+  436  git branch
+  437  git checkout -b new branch
+  438  git checkout -b newbranch
+  439  git branch
+  440  git checkout main
+  441  git branch
+  442  git checkout newbranch
+  443  git branch
+  444  nano New.txt
+  445  git status
+  446  git commit -m "New file was created" git commit -m "New changes in file"
+  447  git commit -m "New info was added into file"
+  448  git status
+  449  git branch 
+  450  git change
+  451  git branch 
+  452  git change
+  453  git checkout main
+  454  git branch
+  455  git merge newbranch
+  456  git branch
+  457  git status
+  458  git commite
+  459  git commit
+  460  git checkout newbranch
+  461  git status
+  462  git merge main
+  463  git status
+  464  git commit
+  465  git checkout main
+  466  git status
+  467  git commit - m "New info"
+  468  git add New.txt
+  469  git status
+  470  git commit -m "New info"
+  471  git push
+  472  git push https://github.com/dimaovchariktest9gmailcom/Homework.git
+  473  git remote -v
+  474  git config --list
+  475  cd Git
+  476  git clone https://github.com/artemkfifa/Project1.git
+  477  -c && rm ~/.bash_history
+  478  git clone https://github.com/artemkfifa/HW_10.git
+  479  cd Git
+  480  git status
+  481  git clone https://github.com/artemkfifa/HW_10.git
+  482  git clone https://github.com/artemkfifa/Project1.git
+  483  cd Git
+  484  git clone https://github.com/artemkfifa/Project1.git
+  485  git clone https://github.com/artemkfifa/HW_10.git
+  486  pwd
+  487  ls -ld .
+  488  cd ~
+  489  pwd
+  490  git clone https://github.com/artemkfifa/HW_10.git
+  491  cd Git
+  492  pwd
+  493  pwd HW_10
+  494  cd HW_10
+  495  pwd
+  496  cd ~
+  497  cd Git
+  498  cd
+  499  ls
+  500  cd Desktop
+  501  ls
+  502  cd Git
+  503  ls
+  504  git clone https://github.com/artemkfifa/HW_10.git
+  505  cd HW_10
+  506  touch text_ignore.txt
+  507  nano .gitignore
+  508  git status
+  509  git add .
+  510  git status
+  511  git commit -m "Added text_ignore.txt to .gitignore"
+  512  touch main_test.txt
+  513  git add .
+  514  git commit -m "Added main_test.txt"
+  515  git checkout -b develop
+  516  touch develop_test.txt
+  517  git add .
+  518  git commit -m "Added develop_test.txt"
+  519  echo "info was added" >> develop_test.txt
+  520  git status
+  521  git add .
+  522  git status
+  523  git commit -m "Modified develop_test.txt with a new info that was added"
+  524  git checkout main
+  525  git merge develop
+  526  git log --oneline
+  527  git add .
